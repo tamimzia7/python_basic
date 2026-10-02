@@ -1,0 +1,3 @@
+failed_attampts = 7
+if feiled_attampts >5:
+print "("suspicious activity detected")
